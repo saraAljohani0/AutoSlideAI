@@ -1,4 +1,4 @@
-AutoSlide AI System 
+#AutoSlide AI System 
 
 An NLP-based educational platform designed to streamline the creation, management, and sharing of academic lecture materials for professors and students.
 
