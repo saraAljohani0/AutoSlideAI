@@ -8,15 +8,15 @@ Preparing lecture slides and study materials manually can be a time-consuming pr
 
 When professors update the content, changes are automatically synchronized with students. Students can also generate personalized and interactive study materials, including quizzes, flashcards, and multilingual explanations, to support their learning experience.
 
-# Key Features
+# Key Features:
 
-# For Professors
+# -For Professors
 
 * Automated Slide Generation: Upload course materials (PDF, DOCX, PPTX) and generate structured slides using AI.
 * Content Management: Select specific topics from uploaded documents to focus on.
 * Edit & Sync: Modify generated slides by adding, deleting, or annotating content. Updates are synchronized with shared student copies without requiring students to re-download the files.
 
-# For Students
+# -For Students
 
 * Personalized Workspace: View shared slides, save personal copies, and add private notes without modifying the original files.
 * AI Study Tools: Generate interactive Flashcards and Quizzes based on slide content.
